@@ -1,0 +1,4 @@
+weather_index:
+    path: /
+    controller: App\Controller\WeatherController::index
+    methods: [GET, POST]
